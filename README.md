@@ -1,7 +1,7 @@
 # LYXAreaPicker
 在项目开发中，选择地区的场景很常见，为了方便使用，从项目中摘出了最近写的地址选择控件LYXAreaPicker, 此控件采用本地json解析的方式，省市县三级联动，仿京东的地址选择样式和逻辑。
 
-![LYXAreaPicker01.png](https://upload-images.jianshu.io/upload_images/2962939-373c06e4a60808ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![LYXAreaPicker01.png](https://upload-images.jianshu.io/upload_images/2962939-373c06e4a60808ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/620)
 
 
 ## 一、集成方式：
