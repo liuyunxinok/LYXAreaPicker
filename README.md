@@ -20,7 +20,7 @@
         self.areaTextFiled.text = area;
     };
 
-##注意事项：
-####1、控件采用Masonry布局，引入的项目中需要集成Masonry框架。
-####2、选中的对勾图片可自定义设定，在LYXAreaListTableViewCell.m中进行修改即可。
+## 注意事项：
+#### 1、控件采用Masonry布局，引入的项目中需要集成Masonry框架。
+#### 2、选中的对勾图片可自定义设定，在LYXAreaListTableViewCell.m中进行修改即可。
 
